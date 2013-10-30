@@ -1,0 +1,7 @@
+Bundle-Name: com.dbfconsult.slf4josgi
+Bundle-SymbolicName: com.dbfconsult.slf4josgi
+Import-Package: org.osgi.framework,org.slf4j
+Bundle-Activator: com.dbfconsult.slf4josgi.LoggingBundle
+Bundle-Description: A logging example bundle
+Bundle-ManifestVersion: 2
+Bundle-Version: 1.0.0
